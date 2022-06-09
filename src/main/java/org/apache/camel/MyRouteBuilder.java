@@ -2,7 +2,6 @@ package org.apache.camel;
 
 import ai.djl.modality.cv.output.DetectedObjects;
 import org.apache.camel.builder.RouteBuilder;
-import org.apache.camel.dataformat.bindy.csv.BindyCsvDataFormat;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
